@@ -11,6 +11,7 @@
 <a href="https://www.linkedin.com/in/praneeth-srikurmadasu-738bb922a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:srikurmadasupraneeth@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://leetcode.com/u/Srikurmadasu_Praneeth/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://github.com/praneeth-srikurmadasu/praneeth-srikurmadasu/blob/main/assets/Praneeth_Srikurmadasu_Resume.pdf"><img src="https://img.shields.io/badge/Resume-34A853?style=for-the-badge&logo=googledocs&logoColor=white"/></a>
 <a href="https://github.com/praneeth-srikurmadasu"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=praneeth-srikurmadasu&style=for-the-badge&color=34A853&label=Profile+Views" alt="profile views"/>
 
@@ -23,6 +24,8 @@
 I'm part of the **Software Application & Development Apprenticeship** at **Google** (since March 2025). I enjoy the hard parts of backend engineering: storage engines, transactions, retries, idempotency and the edge cases that show up when real systems fail.
 
 Outside work I build systems from first principles to understand how they really work: a relational **database engine** in pure Python, a fault-tolerant **workforce integration platform**, and a **Raft-based distributed key-value store**.
+
+**Currently:** building RaftKV in core Java &nbsp;·&nbsp; reading *Designing Data-Intensive Applications* &nbsp;·&nbsp; solving LeetCode mediums every week
 
 <table>
 <tr>
@@ -118,7 +121,7 @@ class Praneeth:
 </td>
 </tr>
 <tr>
-<td width="90" align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="52"/></td>
+<td width="90" align="center"><img src="assets/smartly-built.png" width="60"/></td>
 <td>
 
 ### Smartly Built
@@ -203,25 +206,6 @@ A linearizable key-value store replicated with the **Raft consensus algorithm**,
 - **Networking:** custom binary RPC protocol over non-blocking `java.nio` TCP, with reconnects and back-pressure
 - **Testing:** a deterministic simulation that injects crashes, partitions, drops, delays and reordering, replayable from a seed, plus a Porcupine-style **linearizability checker** run across 1,000+ randomized chaos runs
 
-<details>
-<summary><b>Build roadmap</b></summary>
-<br/>
-
-- [ ] Codec, sealed message types and simulated network
-- [ ] Leader election
-- [ ] Log replication and the commit rule (incl. the Figure 8 scenario)
-- [ ] Persistence: MetaStore and segmented log with crash recovery
-- [ ] KV state machine, client sessions and exactly-once semantics
-- [ ] Linearizability checker and chaos test suite
-- [ ] Real TCP transport, CLI and `kill -9` integration tests
-- [ ] Snapshots and InstallSnapshot
-- [ ] ReadIndex and lease reads, pre-vote, batching and pipelining
-- [ ] Membership changes and leadership transfer
-- [ ] Metrics dashboard, benchmarks and design doc
-- [ ] *Stretch:* sharding across multiple Raft groups
-
-</details>
-
 <p>
 <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Raft_Consensus-555555?style=flat-square"/>
@@ -233,12 +217,51 @@ A linearizable key-value store replicated with the **Raft consensus algorithm**,
 
 ---
 
+## Let's Connect
+
+<table>
+<tr>
+<td width="55%" valign="middle">
+
+```bash
+$ whoami
+praneeth-srikurmadasu
+
+$ cat about.txt
+Backend engineer @ Google apprenticeship.
+I build systems that stay correct when things fail.
+
+$ cat open_to.txt
+Backend engineering · Distributed systems
+Databases · Interesting problems
+
+$ ./say_hello --email srikurmadasupraneeth@gmail.com
+Hello sent. Talk soon!
+```
+
+</td>
+<td width="45%" align="center" valign="middle">
+
+**Let's build something reliable together.**
+
+<br/>
+
+<a href="https://www.linkedin.com/in/praneeth-srikurmadasu-738bb922a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<br/>
+<a href="mailto:srikurmadasupraneeth@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<br/>
+<a href="https://github.com/praneeth-srikurmadasu/praneeth-srikurmadasu/blob/main/assets/Praneeth_Srikurmadasu_Resume.pdf"><img src="https://img.shields.io/badge/Download_Resume-34A853?style=for-the-badge&logo=googledocs&logoColor=white"/></a>
+<br/>
+<a href="https://leetcode.com/u/Srikurmadasu_Praneeth/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+
+</td>
+</tr>
+</table>
+
 <div align="center">
 
-**Open to conversations about backend engineering, distributed systems and interesting problems.**
-<br/>
-Reach me at [srikurmadasupraneeth@gmail.com](mailto:srikurmadasupraneeth@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/praneeth-srikurmadasu-738bb922a/).
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=34A853&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!;If+you+like+a+project%2C+a+star+means+a+lot.;Correct+first.+Then+fast.+Then+pretty." alt="Thanks for visiting" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,25:EA4335,50:FBBC05,75:34A853,100:4285F4&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,25:EA4335,50:FBBC05,75:34A853,100:4285F4&height=140&section=footer&text=Thanks%20for%20stopping%20by&fontSize=26&fontColor=ffffff&fontAlignY=72" width="100%"/>
 
 </div>
