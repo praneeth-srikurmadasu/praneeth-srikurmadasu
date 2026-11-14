@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,25:EA4335,50:FBBC05,75:34A853,100:4285F4&height=200&section=header&text=Praneeth%20Srikurmadasu&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Application%20%26%20Development%20Apprenticeship%20%40%20Google&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,25:EA4335,50:FBBC05,75:34A853,100:4285F4&height=200&section=header&text=Praneeth%20Srikurmadasu&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Application%20and%20Development%20Apprenticeship%20at%20Google&descAlignY=58&descSize=17" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=4285F4&center=true&vCenter=true&width=900&lines=Software+Application+%26+Development+Apprenticeship+%40+Google;Backend+Engineer+%7C+Python+%E2%80%A2+Java+%E2%80%A2+Angular;Distributed+Systems+%E2%80%A2+Databases+%E2%80%A2+Reliability;I+build+systems+that+stay+correct+when+things+fail." alt="Typing SVG" />
@@ -188,21 +188,7 @@ A replicated, fault-tolerant key-value store built on the Raft consensus protoco
 
 <img src="https://streak-stats.demolab.com?user=praneeth-srikurmadasu&theme=tokyonight&hide_border=true" width="60%"/>
 
-<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=praneeth-srikurmadasu&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/praneeth-srikurmadasu/praneeth-srikurmadasu/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/praneeth-srikurmadasu/praneeth-srikurmadasu/output/github-contribution-grid-snake.svg" />
-</picture>
 </div>
 
 ---
