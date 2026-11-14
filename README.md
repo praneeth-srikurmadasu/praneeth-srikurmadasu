@@ -9,7 +9,7 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/praneeth-srikurmadasu-738bb922a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:srikurmadasupraneeth@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=srikurmadasupraneeth@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://leetcode.com/u/Srikurmadasu_Praneeth/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 <a href="https://github.com/praneeth-srikurmadasu/praneeth-srikurmadasu/blob/main/assets/Praneeth_Srikurmadasu_Resume.pdf"><img src="https://img.shields.io/badge/Resume-34A853?style=for-the-badge&logo=googledocs&logoColor=white"/></a>
 <a href="https://github.com/praneeth-srikurmadasu"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -57,7 +57,7 @@ def praneeth():
 ## Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css,angular,react,tailwind,bootstrap,fastapi,flask,nodejs,express,postgres,mysql,redis,mongodb,gcp,docker,githubactions,nginx,linux,git,postman,vscode&perline=6&theme=dark" width="100%"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css,angular,react,tailwind,bootstrap,fastapi,flask,nodejs,express,postgres,mysql,redis,mongodb,gcp,docker,githubactions,nginx,linux,git,postman,vscode&perline=6&theme=dark" width="600"/>
 </div>
 
 </td>
@@ -67,7 +67,7 @@ def praneeth():
 
 <div align="center">
 <a href="https://leetcode.com/u/Srikurmadasu_Praneeth/">
-  <img src="https://leetcard.jacoblin.cool/Srikurmadasu_Praneeth?theme=dark&font=Fira%20Code" width="100%"/>
+  <img src="https://leetcard.jacoblin.cool/Srikurmadasu_Praneeth?theme=dark&font=Fira%20Code" width="600"/>
 </a>
 </div>
 
@@ -212,6 +212,7 @@ A linearizable key-value store replicated with the **Raft consensus algorithm**,
 ### GITAM Deemed University
 **Bachelor of Technology (B.Tech), Computer Science** &nbsp;|&nbsp; Nov 2021 – Jul 2025
 <br/><sub>CGPA: 7.82 / 10</sub>
+<br/><img src="assets/spacer.png" width="1200" height="1"/>
 
 </td>
 </tr>
@@ -273,7 +274,7 @@ Solved **10 of 13 problems** across three timed stages in a 6-hour competitive c
 **Let's build something reliable together.**
 
 <a href="https://www.linkedin.com/in/praneeth-srikurmadasu-738bb922a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:srikurmadasupraneeth@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=srikurmadasupraneeth@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/praneeth-srikurmadasu/praneeth-srikurmadasu/blob/main/assets/Praneeth_Srikurmadasu_Resume.pdf"><img src="https://img.shields.io/badge/Resume-34A853?style=for-the-badge&logo=googledocs&logoColor=white"/></a>
 <a href="https://leetcode.com/u/Srikurmadasu_Praneeth/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 <a href="https://github.com/praneeth-srikurmadasu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
