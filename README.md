@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,25:EA4335,50:FBBC05,75:34A853,100:4285F4&height=200&section=header&text=Praneeth%20Srikurmadasu&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Apprentice%20%40%20Google&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,25:EA4335,50:FBBC05,75:34A853,100:4285F4&height=200&section=header&text=Praneeth%20Srikurmadasu&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Application%20%26%20Development%20Apprenticeship%20%40%20Google&descAlignY=58&descSize=17" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4285F4&center=true&vCenter=true&width=650&lines=Software+Application+%26+Development+Apprentice+%40+Google;Backend+Engineer+%7C+Python+%E2%80%A2+Java+%E2%80%A2+Angular;Distributed+Systems+%E2%80%A2+Databases+%E2%80%A2+Reliability;I+build+systems+that+stay+correct+when+things+fail." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=4285F4&center=true&vCenter=true&width=900&lines=Software+Application+%26+Development+Apprenticeship+%40+Google;Backend+Engineer+%7C+Python+%E2%80%A2+Java+%E2%80%A2+Angular;Distributed+Systems+%E2%80%A2+Databases+%E2%80%A2+Reliability;I+build+systems+that+stay+correct+when+things+fail." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -20,13 +20,17 @@
 
 ## About Me
 
-I'm a software engineer at **Google**, working as a **Software Application & Development Apprentice** since March 2025. I enjoy the hard parts of backend engineering: storage engines, transactions, retries, idempotency and the edge cases that show up when real systems fail.
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320"/>
+
+I'm part of the **Software Application & Development Apprenticeship** at **Google** (since March 2025). I enjoy the hard parts of backend engineering: storage engines, transactions, retries, idempotency and the edge cases that show up when real systems fail.
 
 Outside work I build systems from first principles to understand how they really work: a relational **database engine** in pure Python, a fault-tolerant **workforce integration platform**, and a **Raft-based distributed key-value store**.
 
+<br clear="right"/>
+
 ```python
 class Praneeth:
-    role       = "Software Application & Development Apprentice @ Google"
+    role       = "Software Application & Development Apprenticeship @ Google"
     since      = "March 2025"
     languages  = ["Python", "Java", "C++", "JavaScript", "TypeScript", "SQL"]
     backend    = ["FastAPI", "SQLAlchemy", "Celery", "PostgreSQL", "Redis"]
@@ -45,7 +49,7 @@ class Praneeth:
 <td>
 
 ### Google
-**Software Application & Development Apprentice** &nbsp;|&nbsp; March 2025 – Present
+**Software Application & Development Apprenticeship** &nbsp;|&nbsp; March 2025 – Present
 
 - Develop and maintain application features across the stack using **Python**, **Java** and **Angular (TypeScript)**
 - Build backend services and APIs in Python and Java, and responsive front-end features in Angular
@@ -126,7 +130,7 @@ A replicated, fault-tolerant key-value store built on the Raft consensus protoco
 <div align="center">
 
 <a href="https://leetcode.com/u/Srikurmadasu_Praneeth/">
-  <img src="https://leetcard.jacoblin.cool/Srikurmadasu_Praneeth?theme=dark&font=Fira%20Code&ext=heatmap" width="520"/>
+  <img src="https://leetcard.jacoblin.cool/Srikurmadasu_Praneeth?theme=dark&font=Fira%20Code" width="520"/>
 </a>
 
 </div>
