@@ -51,20 +51,29 @@ class Praneeth:
 </tr>
 </table>
 
+---
+
+## Tech Stack
+
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%"><h3>Google</h3><sub>Apprentice since Mar 2025</sub></td>
-<td align="center" width="25%"><h3>1,500+</h3><sub>automated tests across my projects</sub></td>
-<td align="center" width="25%"><h3>3</h3><sub>systems projects built from scratch</sub></td>
-<td align="center" width="25%"><h3>220+</h3><sub>LeetCode problems solved</sub></td>
-</tr>
-</table>
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css&theme=dark" />
+
+**Backend & Data**
+<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,mysql,redis,mongodb&theme=dark" />
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=angular,react,tailwind,bootstrap&theme=dark" />
+
+**Cloud, DevOps & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=gcp,docker,githubactions,nginx,linux,git,postman,vscode&theme=dark" />
 
 </div>
-
-> **Note:** This is my new GitHub account. I lost access to my previous account after a two-factor authentication lockout, so my commit history here starts in August 2025. I'm actively rebuilding and publishing my work on this profile.
 
 ---
 
@@ -145,10 +154,44 @@ A disk-based relational database written using **only the Python standard librar
 
 ---
 
-### [RaftKV](https://github.com/praneeth-srikurmadasu/raftkv) — Distributed key-value store on the Raft consensus algorithm *(in progress)*
+### [RaftKV](https://github.com/praneeth-srikurmadasu/raftkv) — Fault-tolerant distributed key-value store in core Java *(currently building)*
 
-<!-- TODO: replace with real details once shared -->
-A replicated, fault-tolerant key-value store built on the Raft consensus protocol, with leader election, log replication and safety under node failures and network partitions.
+A linearizable key-value store replicated with the **Raft consensus algorithm**, written in **core Java 21 with no frameworks**: no Spring, Netty, gRPC or Raft libraries. The cluster stays available and consistent as long as a majority of nodes is up. Every rule from Figure 2 of the Raft paper maps to a commented line of code.
+
+- **Consensus:** leader election with pre-vote and check-quorum, log replication with fast backtracking, snapshots and log compaction, and single-server membership changes with learners
+- **KV semantics:** linearizable `GET` / `PUT` / `DELETE` / `CAS`, with exactly-once client retries through session deduplication
+- **Reads:** three linearizable read paths to benchmark against each other: log reads, ReadIndex and lease reads
+- **Storage:** segmented write-ahead log with CRC32C checksums, group commit and torn-tail recovery, plus atomic `fsync`+rename metadata
+- **Networking:** custom binary RPC protocol over non-blocking `java.nio` TCP, with reconnects and back-pressure
+- **Testing:** a deterministic simulation that injects crashes, partitions, drops, delays and reordering, replayable from a seed, plus a Porcupine-style **linearizability checker** run across 1,000+ randomized chaos runs
+
+<details>
+<summary><b>Build roadmap</b></summary>
+<br/>
+
+- [ ] Codec, sealed message types and simulated network
+- [ ] Leader election
+- [ ] Log replication and the commit rule (incl. the Figure 8 scenario)
+- [ ] Persistence: MetaStore and segmented log with crash recovery
+- [ ] KV state machine, client sessions and exactly-once semantics
+- [ ] Linearizability checker and chaos test suite
+- [ ] Real TCP transport, CLI and `kill -9` integration tests
+- [ ] Snapshots and InstallSnapshot
+- [ ] ReadIndex and lease reads, pre-vote, batching and pipelining
+- [ ] Membership changes and leadership transfer
+- [ ] Metrics dashboard, benchmarks and design doc
+- [ ] *Stretch:* sharding across multiple Raft groups
+
+</details>
+
+<p>
+<img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Raft_Consensus-555555?style=flat-square"/>
+<img src="https://img.shields.io/badge/java.nio-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linearizability-555555?style=flat-square"/>
+<img src="https://img.shields.io/badge/Chaos_Testing-555555?style=flat-square"/>
+</p>
 
 ---
 
@@ -165,30 +208,6 @@ A replicated, fault-tolerant key-value store built on the Raft consensus protoco
 - **220+ problems solved on LeetCode** across arrays, strings, hashing, trees, graphs and dynamic programming
 - Earned the **Top SQL 50** badge
 - Currently focused on medium/hard problems and system design
-
----
-
-## Tech Stack
-
-<div align="center">
-
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css&theme=dark" />
-
-**Backend & Data**
-<br/>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,mysql,redis,mongodb&theme=dark" />
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=angular,react,tailwind,bootstrap&theme=dark" />
-
-**Cloud, DevOps & Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=gcp,docker,githubactions,nginx,linux,git,postman,vscode&theme=dark" />
-
-</div>
 
 ---
 
