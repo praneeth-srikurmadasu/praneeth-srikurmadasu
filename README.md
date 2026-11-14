@@ -57,27 +57,34 @@ def praneeth():
 
 ---
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ## Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css,angular,react,tailwind,bootstrap,fastapi,flask,nodejs,express,postgres,mysql,redis,mongodb,gcp,docker,githubactions,nginx,linux,git,postman,vscode&perline=9&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css,angular,react,tailwind,bootstrap,fastapi,flask,nodejs,express,postgres,mysql,redis,mongodb,gcp,docker,githubactions,nginx,linux,git,postman,vscode&perline=6&theme=dark" width="100%"/>
 </div>
 
----
+</td>
+<td width="50%" valign="top">
 
 ## Problem Solving
 
 <div align="center">
-
 <a href="https://leetcode.com/u/Srikurmadasu_Praneeth/">
-  <img src="https://leetcard.jacoblin.cool/Srikurmadasu_Praneeth?theme=dark&font=Fira%20Code" width="520"/>
+  <img src="https://leetcard.jacoblin.cool/Srikurmadasu_Praneeth?theme=dark&font=Fira%20Code" width="100%"/>
 </a>
-
 </div>
 
-- **220+ problems solved on LeetCode** across arrays, strings, hashing, trees, graphs and dynamic programming
+- **220+ problems** solved on LeetCode
+- Arrays, strings, hashing, trees, graphs and DP
 - Earned the **Top SQL 50** badge
-- Currently focused on medium/hard problems and system design
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -243,7 +250,7 @@ A linearizable key-value store replicated with the **Raft consensus algorithm**,
 
 <table>
 <tr>
-<td width="90" align="center"><h2>1st</h2></td>
+<td width="90" align="center"><h2><b>1st</b></h2></td>
 <td>
 
 **1st Prize Winner, Idea Hackathon** &nbsp;|&nbsp; GITAM University &nbsp;|&nbsp; Feb 2024
@@ -253,7 +260,7 @@ Designed a multi-functional **emergency medical response system**. It routes use
 </td>
 </tr>
 <tr>
-<td align="center"><h2>10/13</h2></td>
+<td align="center"><h2><b>10/13</b></h2></td>
 <td>
 
 **Participant, Code Hackathon** &nbsp;|&nbsp; GITAM University &nbsp;|&nbsp; Mar 2024
@@ -268,44 +275,17 @@ Solved **10 of 13 problems** across three timed stages in a 6-hour competitive c
 
 ## Let's Connect
 
-<table>
-<tr>
-<td width="55%" valign="middle">
-
-```bash
-$ whoami
-praneeth-srikurmadasu
-
-$ cat about.txt
-Backend engineer @ Google apprenticeship.
-I build systems that stay correct when things fail.
-
-$ cat open_to.txt
-Backend engineering · Distributed systems
-Databases · Interesting problems
-
-$ ./say_hello --email srikurmadasupraneeth@gmail.com
-Hello sent. Talk soon!
-```
-
-</td>
-<td width="45%" align="center" valign="middle">
+<div align="center">
 
 **Let's build something reliable together.**
 
-<br/>
-
 <a href="https://www.linkedin.com/in/praneeth-srikurmadasu-738bb922a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<br/>
 <a href="mailto:srikurmadasupraneeth@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<br/>
-<a href="https://github.com/praneeth-srikurmadasu/praneeth-srikurmadasu/blob/main/assets/Praneeth_Srikurmadasu_Resume.pdf"><img src="https://img.shields.io/badge/Download_Resume-34A853?style=for-the-badge&logo=googledocs&logoColor=white"/></a>
-<br/>
+<a href="https://github.com/praneeth-srikurmadasu/praneeth-srikurmadasu/blob/main/assets/Praneeth_Srikurmadasu_Resume.pdf"><img src="https://img.shields.io/badge/Resume-34A853?style=for-the-badge&logo=googledocs&logoColor=white"/></a>
 <a href="https://leetcode.com/u/Srikurmadasu_Praneeth/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://github.com/praneeth-srikurmadasu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-</td>
-</tr>
-</table>
+</div>
 
 <div align="center">
 
