@@ -20,24 +20,51 @@
 
 ## About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320"/>
-
 I'm part of the **Software Application & Development Apprenticeship** at **Google** (since March 2025). I enjoy the hard parts of backend engineering: storage engines, transactions, retries, idempotency and the edge cases that show up when real systems fail.
 
 Outside work I build systems from first principles to understand how they really work: a relational **database engine** in pure Python, a fault-tolerant **workforce integration platform**, and a **Raft-based distributed key-value store**.
 
-<br clear="right"/>
+<table>
+<tr>
+<td width="58%" valign="middle">
 
 ```python
 class Praneeth:
-    role       = "Software Application & Development Apprenticeship @ Google"
-    since      = "March 2025"
-    languages  = ["Python", "Java", "C++", "JavaScript", "TypeScript", "SQL"]
-    backend    = ["FastAPI", "SQLAlchemy", "Celery", "PostgreSQL", "Redis"]
-    frontend   = ["Angular", "React"]
-    interests  = ["Distributed Systems", "Database Internals", "System Design", "Reliability"]
-    principle  = "Correct first, then fast, then pretty."
+    role      = ("Software Application & Development "
+                 "Apprenticeship @ Google")
+    since     = "March 2025"
+    languages = ["Python", "Java", "C++",
+                 "JavaScript", "TypeScript", "SQL"]
+    backend   = ["FastAPI", "SQLAlchemy", "Celery",
+                 "PostgreSQL", "Redis"]
+    frontend  = ["Angular", "React"]
+    interests = ["Distributed Systems",
+                 "Database Internals",
+                 "System Design", "Reliability"]
+    principle = "Correct first, then fast, then pretty."
 ```
+
+</td>
+<td width="42%" align="center" valign="middle">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%"><h3>Google</h3><sub>Apprentice since Mar 2025</sub></td>
+<td align="center" width="25%"><h3>1,500+</h3><sub>automated tests across my projects</sub></td>
+<td align="center" width="25%"><h3>3</h3><sub>systems projects built from scratch</sub></td>
+<td align="center" width="25%"><h3>220+</h3><sub>LeetCode problems solved</sub></td>
+</tr>
+</table>
+
+</div>
+
+> **Note:** This is my new GitHub account. I lost access to my previous account after a two-factor authentication lockout, so my commit history here starts in August 2025. I'm actively rebuilding and publishing my work on this profile.
 
 ---
 
@@ -118,7 +145,7 @@ A disk-based relational database written using **only the Python standard librar
 
 ---
 
-### [RaftKV](https://github.com/praneeth-srikurmadasu/raftkv) — Distributed key-value store on the Raft consensus algorithm
+### [RaftKV](https://github.com/praneeth-srikurmadasu/raftkv) — Distributed key-value store on the Raft consensus algorithm *(in progress)*
 
 <!-- TODO: replace with real details once shared -->
 A replicated, fault-tolerant key-value store built on the Raft consensus protocol, with leader election, log replication and safety under node failures and network partitions.
@@ -174,22 +201,6 @@ A replicated, fault-tolerant key-value store built on the Raft consensus protoco
 | **Reliability Engineering** | Retries with backoff and jitter, circuit breakers, dead-letter queues, rate limiting |
 | **Backend & APIs** | FastAPI, SQLAlchemy, Celery, multi-tenant design, auth and security |
 | **Full-Stack** | Angular (signals, standalone components), React, accessible UI design |
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=praneeth-srikurmadasu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praneeth-srikurmadasu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=praneeth-srikurmadasu&theme=tokyonight&hide_border=true" width="60%"/>
-
-
-</div>
 
 ---
 
