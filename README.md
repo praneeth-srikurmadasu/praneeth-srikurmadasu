@@ -106,7 +106,7 @@ def praneeth():
 </td>
 </tr>
 <tr>
-<td width="90" align="center"><img src="assets/smartly-built.png" width="60"/></td>
+<td width="90" align="center"><img src="assets/Smartly%20Built.jpg" width="60"/></td>
 <td>
 
 ### Smartly Built
@@ -206,18 +206,17 @@ A linearizable key-value store replicated with the **Raft consensus algorithm**,
 
 <table width="100%">
 <tr>
-<td width="90" align="center"><img src="assets/gitam.png" width="60"/></td>
+<td width="90" align="center"><img src="assets/Gitam%20University.jpg" width="60"/></td>
 <td>
 
 ### GITAM Deemed University
 **Bachelor of Technology (B.Tech), Computer Science** &nbsp;|&nbsp; Nov 2021 – Jul 2025
 <br/><sub>CGPA: 7.82 / 10</sub>
-<br/><img src="assets/spacer.png" width="1200" height="1"/>
 
 </td>
 </tr>
 <tr>
-<td width="90" align="center"><img src="assets/sri-chaitanya.png" width="60"/></td>
+<td width="90" align="center"><img src="assets/Sri%20Chaitanya.jpg" width="60"/></td>
 <td>
 
 ### Sri Chaitanya College of Education
@@ -227,7 +226,7 @@ A linearizable key-value store replicated with the **Raft consensus algorithm**,
 </td>
 </tr>
 <tr>
-<td width="90" align="center"><img src="assets/sri-prakash.png" width="60"/></td>
+<td width="90" align="center"><img src="assets/Sri%20Prakash.jpg" width="72"/></td>
 <td>
 
 ### Sri Prakash Vidya Niketan
