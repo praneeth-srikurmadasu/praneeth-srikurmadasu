@@ -25,26 +25,27 @@ I'm part of the **Software Application & Development Apprenticeship** at **Googl
 
 Outside work I build systems from first principles to understand how they really work: a relational **database engine** in pure Python, a fault-tolerant **workforce integration platform**, and a **Raft-based distributed key-value store**.
 
-**Currently:** building RaftKV in core Java &nbsp;·&nbsp; reading *Designing Data-Intensive Applications* &nbsp;·&nbsp; solving LeetCode mediums every week
 
 <table>
 <tr>
 <td width="58%" valign="middle">
 
 ```python
-class Praneeth:
-    role      = ("Software Application & Development "
-                 "Apprenticeship @ Google")
-    since     = "March 2025"
-    languages = ["Python", "Java", "C++",
-                 "JavaScript", "TypeScript", "SQL"]
-    backend   = ["FastAPI", "Node.js", "Express",
-                 "PostgreSQL", "MongoDB", "Redis"]
-    frontend  = ["Angular", "React"]
-    interests = ["Distributed Systems",
-                 "Database Internals",
-                 "System Design", "Reliability"]
-    principle = "Correct first, then fast, then pretty."
+def praneeth():
+    return {
+        "role":      "Software Application & Development "
+                     "Apprenticeship @ Google",
+        "since":     "March 2025",
+        "languages": ["Python", "Java", "C++",
+                      "JavaScript", "TypeScript", "SQL"],
+        "backend":   ["FastAPI", "Node.js", "Express",
+                      "PostgreSQL", "MongoDB", "Redis"],
+        "frontend":  ["Angular", "React"],
+        "interests": ["Distributed Systems",
+                      "Database Internals",
+                      "System Design", "Reliability"],
+        "principle": "Correct first, then fast, then pretty.",
+    }
 ```
 
 </td>
@@ -59,23 +60,7 @@ class Praneeth:
 ## Tech Stack
 
 <div align="center">
-
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css&theme=dark" />
-
-**Backend & Data**
-<br/>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,postgres,mysql,redis,mongodb&theme=dark" />
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=angular,react,tailwind,bootstrap&theme=dark" />
-
-**Cloud, DevOps & Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=gcp,docker,githubactions,nginx,linux,git,postman,vscode&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css,angular,react,tailwind,bootstrap,fastapi,flask,nodejs,express,postgres,mysql,redis,mongodb,gcp,docker,githubactions,nginx,linux,git,postman,vscode&perline=9&theme=dark" />
 </div>
 
 ---
@@ -221,15 +206,32 @@ A linearizable key-value store replicated with the **Raft consensus algorithm**,
 
 <table>
 <tr>
-<td width="90" align="center"><img src="https://img.shields.io/badge/GITAM-0F4C3A?style=for-the-badge" /></td>
+<td width="90" align="center"><img src="assets/gitam.png" width="60"/></td>
 <td>
 
-### GITAM University
-**[DEGREE, e.g. B.Tech in Computer Science and Engineering]** &nbsp;|&nbsp; [START YEAR] – [END YEAR]
-<br/><sub>[CGPA: X.XX / 10]</sub>
+### GITAM Deemed University
+**Bachelor of Technology (B.Tech), Computer Science** &nbsp;|&nbsp; Nov 2021 – Jul 2025
+<br/><sub>CGPA: 7.82 / 10</sub>
 
-- [Relevant coursework, e.g. Data Structures, Operating Systems, DBMS, Computer Networks]
-- [Clubs, activities or leadership roles]
+</td>
+</tr>
+<tr>
+<td width="90" align="center"><img src="assets/sri-chaitanya.png" width="60"/></td>
+<td>
+
+### Sri Chaitanya College of Education
+**Intermediate** &nbsp;|&nbsp; Jul 2019 – Apr 2021
+<br/><sub>Grade: 90.2%</sub>
+
+</td>
+</tr>
+<tr>
+<td width="90" align="center"><img src="assets/sri-prakash.png" width="60"/></td>
+<td>
+
+### Sri Prakash Vidya Niketan
+**Schooling** &nbsp;|&nbsp; Jun 2012 – Apr 2019
+<br/><sub>Grade: 95</sub>
 
 </td>
 </tr>
@@ -237,14 +239,30 @@ A linearizable key-value store replicated with the **Raft consensus algorithm**,
 
 ---
 
-## Certifications & Honors
+## Honors & Awards
 
-| Title | Issued by | Year |
-|:--|:--|:--:|
-| [Certification name] | [Issuer, e.g. Google / Coursera / AWS] | [YYYY] |
-| [Certification name] | [Issuer] | [YYYY] |
-| [Honor or award] | [Organisation] | [YYYY] |
-| Top SQL 50 badge | LeetCode | [YYYY] |
+<table>
+<tr>
+<td width="90" align="center"><h2>1st</h2></td>
+<td>
+
+**1st Prize Winner, Idea Hackathon** &nbsp;|&nbsp; GITAM University &nbsp;|&nbsp; Feb 2024
+
+Designed a multi-functional **emergency medical response system**. It routes users to the nearest hospital, recommends the best-equipped hospital for the type of injury, and tracks and alerts on medicine expiry dates.
+
+</td>
+</tr>
+<tr>
+<td align="center"><h2>10/13</h2></td>
+<td>
+
+**Participant, Code Hackathon** &nbsp;|&nbsp; GITAM University &nbsp;|&nbsp; Mar 2024
+
+Solved **10 of 13 problems** across three timed stages in a 6-hour competitive coding hackathon (3/3, 4/5 and 3/5).
+
+</td>
+</tr>
+</table>
 
 ---
 
