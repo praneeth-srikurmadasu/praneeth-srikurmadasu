@@ -89,7 +89,7 @@ def praneeth():
 <td>
 
 ### Google
-**Software Application & Development Apprenticeship** &nbsp;|&nbsp; March 2025 – Present
+**Software Application & Development Apprenticeship** &nbsp;|&nbsp; March 2026 – Present
 
 - Develop and maintain application features across the stack using **Python**, **Java** and **Angular (TypeScript)**
 - Build backend services and APIs in Python and Java, and responsive front-end features in Angular
