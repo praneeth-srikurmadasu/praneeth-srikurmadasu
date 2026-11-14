@@ -1,74 +1,63 @@
-<!-- ============================================================ -->
-<!--  🔧 Replace every "praneeth-srikurmadasu" with your username   -->
-<!--  🔧 Replace LinkedIn / email / portfolio links with your own  -->
-<!-- ============================================================ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,25:EA4335,50:FBBC05,75:34A853,100:4285F4&height=200&section=header&text=Praneeth%20Srikurmadasu&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Developer%20%E2%80%A2%20Apprentice%20%40%20Google&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,25:EA4335,50:FBBC05,75:34A853,100:4285F4&height=200&section=header&text=Praneeth%20Srikurmadasu&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Apprentice%20%40%20Google&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4285F4&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Praneeth+%F0%9F%91%8B;Software+Application+%26+Development+Apprentice+%40+Google;Full-Stack+Developer+%7C+Python+Backend;Angular+%E2%80%A2+React+%E2%80%A2+Java+%E2%80%A2+C%2B%2B;Always+building.+Always+learning." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4285F4&center=true&vCenter=true&width=650&lines=Software+Application+%26+Development+Apprentice+%40+Google;Backend+Engineer+%7C+Python+%E2%80%A2+Java+%E2%80%A2+Angular;Distributed+Systems+%E2%80%A2+Databases+%E2%80%A2+Reliability;I+build+systems+that+stay+correct+when+things+fail." alt="Typing SVG" />
 </a>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/praneeth-srikurmadasu-738bb922a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:srikurmadasupraneeth@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/u/Srikurmadasu_Praneeth/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://github.com/praneeth-srikurmadasu"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=praneeth-srikurmadasu&style=for-the-badge&color=34A853&label=Profile+Views" alt="profile views"/>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320"/>
+I'm a software engineer at **Google**, working as a **Software Application & Development Apprentice** since March 2025. I enjoy the hard parts of backend engineering: storage engines, transactions, retries, idempotency and the edge cases that show up when real systems fail.
+
+Outside work I build systems from first principles to understand how they really work: a relational **database engine** in pure Python, a fault-tolerant **workforce integration platform**, and a **Raft-based distributed key-value store**.
 
 ```python
 class Praneeth:
-    def __init__(self):
-        self.name      = "Praneeth Srikurmadasu"
-        self.role      = "Software Application & Development Apprentice"
-        self.company   = "Google"
-        self.languages = ["Python", "Java", "C++", "JavaScript", "TypeScript"]
-        self.frontend  = ["Angular", "React", "HTML5", "CSS3"]
-        self.backend   = ["Python", "Flask", "FastAPI", "Django", "REST APIs"]
-        self.currently = "Building scalable software at Google 🚀"
-
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something awesome 🤝")
-
-me = Praneeth()
-me.say_hi()
+    role       = "Software Application & Development Apprentice @ Google"
+    since      = "March 2025"
+    languages  = ["Python", "Java", "C++", "JavaScript", "TypeScript", "SQL"]
+    backend    = ["FastAPI", "SQLAlchemy", "Celery", "PostgreSQL", "Redis"]
+    frontend   = ["Angular", "React"]
+    interests  = ["Distributed Systems", "Database Internals", "System Design", "Reliability"]
+    principle  = "Correct first, then fast, then pretty."
 ```
-
-- 🏢 Currently working at **Google** as a **Software Application & Development Apprentice**
-- ⚙️ I love building **clean, scalable backends in Python** and **snappy UIs in Angular & React**
-- 🌱 Constantly learning — system design, cloud, and writing better code every day
-- 🤝 Open to collaborating on **open-source** and interesting side projects
-- 💬 Ask me about **Python, full-stack development, DSA, or anything tech**
-- ⚡ Fun fact: I debug better after a cup of chai ☕
-
-<br clear="right"/>
 
 ---
 
-## 💼 Experience
+## Experience
 
 <table>
 <tr>
-<td width="80" align="center"><img src="https://skillicons.dev/icons?i=gcp" width="48"/></td>
+<td width="90" align="center"><img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" width="56"/></td>
 <td>
 
-**Software Application & Development Apprentice** — **Google**
-<br/><sub>📅 20XX – Present &nbsp;•&nbsp; 📍 India</sub>
+### Google
+**Software Application & Development Apprentice** &nbsp;|&nbsp; March 2025 – Present
 
-- Building and maintaining production software used at Google scale
-- Writing backend services in **Python** and front-end features in **Angular / TypeScript**
-- Following Google engineering practices: code reviews, design docs, unit & integration testing, CI/CD
-- <!-- Add 1–2 measurable wins, e.g. "Cut API latency by 30%" or "Automated X, saving Y hrs/week" -->
+- Develop and maintain application features across the stack using **Python**, **Java** and **Angular (TypeScript)**
+- Build backend services and APIs in Python and Java, and responsive front-end features in Angular
+- Work within Google's engineering practices: design docs, rigorous code review, unit and integration testing, and CI/CD
+- Collaborate with senior engineers on production code, focusing on readability, test coverage and maintainability
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+</p>
 
 </td>
 </tr>
@@ -76,66 +65,115 @@ me.say_hi()
 
 ---
 
-## 🧠 Problem Solving & DSA
+## Featured Projects
+
+### [SyncForge](https://github.com/praneeth-srikurmadasu/syncforge) — Fault-tolerant workforce integration platform
+
+Keeps employee data consistent across HR, Slack, Google Workspace and payroll. Every hire, transfer or exit becomes an event, and background workflows update each connected system in order, **staying correct even when those systems fail**.
+
+- **Reliable delivery:** transactional outbox, leases, idempotent steps and idempotency keys protect against duplicate deliveries and worker crashes
+- **Reliability engine:** failure classification, exponential backoff with jitter (respects `Retry-After`), per-connector circuit breakers and rate limits, and a dead-letter queue with authorized replay
+- **Data integrity:** field-level source-of-truth policies, conflict recording instead of silent overwrites, ETag-based optimistic concurrency, and a database-enforced append-only audit log
+- **Multi-tenant security:** org isolation via composite foreign keys, role-based access, Argon2id, JWTs with server-side revocation, and encrypted connector credentials
+- **Admin UI:** Angular app with 16 areas, role-aware navigation, dark mode and automated WCAG AA checks
+- **Engineering rigor:** 579 backend tests on real PostgreSQL, 60 frontend unit and 13 Playwright E2E tests in CI, and 21 architecture decision records
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+</p>
+
+---
+
+### [PyDB](https://github.com/praneeth-srikurmadasu/PyDB) — A relational database engine built from scratch in pure Python
+
+A disk-based relational database written using **only the Python standard library**, with SQL, B+ tree indexes, a cost-based query planner, ACID transactions with crash recovery, concurrent sessions, a TCP server and a DB-API driver.
+
+- **Storage:** 4 KiB checksummed pages, free list, LRU buffer pool with pin counts and latches, slotted-page heaps
+- **Indexing:** B+ trees with order-preserving key encoding, unique and composite keys, range scans
+- **SQL:** DDL/DML, `INNER/LEFT JOIN`, `GROUP BY`/`HAVING`, aggregates, `ORDER BY`, `LIMIT`, three-valued NULL logic, parameterized queries and constraints
+- **Query processing:** Volcano-style operators, three join algorithms (nested loop, index nested loop, hash), external merge sort, a System R–style cost model, and `EXPLAIN ANALYZE`
+- **Transactions:** write-ahead log with **ARIES-style recovery** (redo with torn-page repair, logical undo, compensation records) and checkpoints, crash-tested by killing real processes
+- **Concurrency:** serializable isolation via strict two-phase locking, waits-for graph deadlock detection, lock timeouts
+- **Quality:** 850+ tests (Hypothesis model tests, a SQLite-checked query suite, threaded concurrency and crash tests), fully typed with `mypy --strict`
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/asyncio-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/B%2B_Trees-555555?style=flat-square"/>
+<img src="https://img.shields.io/badge/WAL_%2F_ARIES-555555?style=flat-square"/>
+<img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
+<img src="https://img.shields.io/badge/mypy_strict-2A6DB2?style=flat-square"/>
+</p>
+
+---
+
+### [RaftKV](https://github.com/praneeth-srikurmadasu/raftkv) — Distributed key-value store on the Raft consensus algorithm
+
+<!-- TODO: replace with real details once shared -->
+A replicated, fault-tolerant key-value store built on the Raft consensus protocol, with leader election, log replication and safety under node failures and network partitions.
+
+---
+
+## Problem Solving
 
 <div align="center">
 
-<!-- 🔧 Replace YOUR_LEETCODE_USERNAME -->
-<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap" width="500"/>
+<a href="https://leetcode.com/u/Srikurmadasu_Praneeth/">
+  <img src="https://leetcard.jacoblin.cool/Srikurmadasu_Praneeth?theme=dark&font=Fira%20Code&ext=heatmap" width="520"/>
 </a>
 
-<br/>
-
-<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="https://codeforces.com/profile/YOUR_CF_HANDLE"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-<a href="https://www.geeksforgeeks.org/user/YOUR_GFG_HANDLE/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-
 </div>
 
-- 🧩 Solid grasp of **Data Structures & Algorithms**: arrays, graphs, trees, DP, greedy, sliding window
-- 🏗️ Learning **System Design**: scalability, caching, load balancing, databases, distributed systems
-- 🧪 Strong believer in **clean code, testing and readable PRs**
+- **220+ problems solved on LeetCode** across arrays, strings, hashing, trees, graphs and dynamic programming
+- Earned the **Top SQL 50** badge
+- Currently focused on medium/hard problems and system design
 
 ---
 
-## 🔭 Currently
-
-- 🔨 **Building:** <!-- e.g. a URL shortener with FastAPI + Redis + Angular -->
-- 📖 **Learning:** System Design, Google Cloud, advanced DSA
-- 🎯 **Goal:** 500+ LeetCode problems & shipping one meaningful open-source contribution per month
-
----
-
-## 📜 Certifications
-
-<!-- Keep only the ones you have, and add links -->
-- 🏅 Google Cloud — *Associate Cloud Engineer* <!-- or Cloud Digital Leader -->
-- 🏅 *Add other certifications here*
-
----
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### 💻 Languages
+**Languages**
+<br/>
 <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css&theme=dark" />
 
-### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=angular,react,tailwind,bootstrap,sass&theme=dark" />
+**Backend & Data**
+<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,mysql,redis,mongodb&theme=dark" />
 
-### ⚙️ Backend & Databases
-<img src="https://skillicons.dev/icons?i=py,flask,fastapi,django,nodejs,postgres,mysql,mongodb&theme=dark" />
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=angular,react,tailwind,bootstrap&theme=dark" />
 
-### ☁️ Cloud & Tools
-<img src="https://skillicons.dev/icons?i=gcp,firebase,docker,git,github,linux,vscode,postman&theme=dark" />
+**Cloud, DevOps & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=gcp,docker,githubactions,nginx,linux,git,postman,vscode&theme=dark" />
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## Areas of Interest
+
+| Area | What I've explored |
+|:--|:--|
+| **Database Internals** | Storage engines, B+ trees, buffer pools, WAL, ARIES recovery, query planning |
+| **Distributed Systems** | Consensus (Raft), replication, idempotency, outbox pattern, failure handling |
+| **Reliability Engineering** | Retries with backoff and jitter, circuit breakers, dead-letter queues, rate limiting |
+| **Backend & APIs** | FastAPI, SQLAlchemy, Celery, multi-tenant design, auth and security |
+| **Full-Stack** | Angular (signals, standalone components), React, accessible UI design |
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
@@ -154,29 +192,7 @@ me.say_hi()
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech |
-|:--|:--|:--|
-| 🔹 **[Project One](https://github.com/praneeth-srikurmadasu/project-one)** | A full-stack web app with a Python REST backend and Angular frontend | `Python` `FastAPI` `Angular` |
-| 🔹 **[Project Two](https://github.com/praneeth-srikurmadasu/project-two)** | Responsive React dashboard with real-time data | `React` `JavaScript` `Firebase` |
-| 🔹 **[Project Three](https://github.com/praneeth-srikurmadasu/project-three)** | High-performance algorithms & data structures toolkit | `C++` `Java` |
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=praneeth-srikurmadasu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
-</div>
-
----
-
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 <picture>
@@ -189,11 +205,9 @@ me.say_hi()
 
 <div align="center">
 
-### 💡 *"First, solve the problem. Then, write the code."* — John Johnson
-
+**Open to conversations about backend engineering, distributed systems and interesting problems.**
 <br/>
-
-**⭐ If you like my work, drop a star on my repos — it means a lot! ⭐**
+Reach me at [srikurmadasupraneeth@gmail.com](mailto:srikurmadasupraneeth@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/praneeth-srikurmadasu-738bb922a/).
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,25:EA4335,50:FBBC05,75:34A853,100:4285F4&height=120&section=footer" width="100%"/>
 
