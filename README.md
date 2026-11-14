@@ -217,6 +217,37 @@ A linearizable key-value store replicated with the **Raft consensus algorithm**,
 
 ---
 
+## Education
+
+<table>
+<tr>
+<td width="90" align="center"><img src="https://img.shields.io/badge/GITAM-0F4C3A?style=for-the-badge" /></td>
+<td>
+
+### GITAM University
+**[DEGREE, e.g. B.Tech in Computer Science and Engineering]** &nbsp;|&nbsp; [START YEAR] – [END YEAR]
+<br/><sub>[CGPA: X.XX / 10]</sub>
+
+- [Relevant coursework, e.g. Data Structures, Operating Systems, DBMS, Computer Networks]
+- [Clubs, activities or leadership roles]
+
+</td>
+</tr>
+</table>
+
+---
+
+## Certifications & Honors
+
+| Title | Issued by | Year |
+|:--|:--|:--:|
+| [Certification name] | [Issuer, e.g. Google / Coursera / AWS] | [YYYY] |
+| [Certification name] | [Issuer] | [YYYY] |
+| [Honor or award] | [Organisation] | [YYYY] |
+| Top SQL 50 badge | LeetCode | [YYYY] |
+
+---
+
 ## Let's Connect
 
 <table>
