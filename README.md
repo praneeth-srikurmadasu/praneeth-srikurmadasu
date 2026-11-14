@@ -35,8 +35,8 @@ class Praneeth:
     since     = "March 2025"
     languages = ["Python", "Java", "C++",
                  "JavaScript", "TypeScript", "SQL"]
-    backend   = ["FastAPI", "SQLAlchemy", "Celery",
-                 "PostgreSQL", "Redis"]
+    backend   = ["FastAPI", "Node.js", "Express",
+                 "PostgreSQL", "MongoDB", "Redis"]
     frontend  = ["Angular", "React"]
     interests = ["Distributed Systems",
                  "Database Internals",
@@ -63,7 +63,7 @@ class Praneeth:
 
 **Backend & Data**
 <br/>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,mysql,redis,mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,postgres,mysql,redis,mongodb&theme=dark" />
 
 **Frontend**
 <br/>
@@ -74,6 +74,22 @@ class Praneeth:
 <img src="https://skillicons.dev/icons?i=gcp,docker,githubactions,nginx,linux,git,postman,vscode&theme=dark" />
 
 </div>
+
+---
+
+## Problem Solving
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Srikurmadasu_Praneeth/">
+  <img src="https://leetcard.jacoblin.cool/Srikurmadasu_Praneeth?theme=dark&font=Fira%20Code" width="520"/>
+</a>
+
+</div>
+
+- **220+ problems solved on LeetCode** across arrays, strings, hashing, trees, graphs and dynamic programming
+- Earned the **Top SQL 50** badge
+- Currently focused on medium/hard problems and system design
 
 ---
 
@@ -97,6 +113,28 @@ class Praneeth:
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="90" align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="52"/></td>
+<td>
+
+### Smartly Built
+**Backend Developer** &nbsp;|&nbsp; September 2025 – January 2026 &nbsp;|&nbsp; Remote
+
+- Built and maintained backend services and REST APIs with **Node.js** and **Express.js**
+- Designed data models and queries across **MongoDB** and **MySQL**
+- Worked in a Git/GitHub workflow with feature branches, pull requests and code reviews
+- Collaborated remotely with the team to ship features and fix production issues
+
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </p>
 
 </td>
@@ -192,34 +230,6 @@ A linearizable key-value store replicated with the **Raft consensus algorithm**,
 <img src="https://img.shields.io/badge/Linearizability-555555?style=flat-square"/>
 <img src="https://img.shields.io/badge/Chaos_Testing-555555?style=flat-square"/>
 </p>
-
----
-
-## Problem Solving
-
-<div align="center">
-
-<a href="https://leetcode.com/u/Srikurmadasu_Praneeth/">
-  <img src="https://leetcard.jacoblin.cool/Srikurmadasu_Praneeth?theme=dark&font=Fira%20Code" width="520"/>
-</a>
-
-</div>
-
-- **220+ problems solved on LeetCode** across arrays, strings, hashing, trees, graphs and dynamic programming
-- Earned the **Top SQL 50** badge
-- Currently focused on medium/hard problems and system design
-
----
-
-## Areas of Interest
-
-| Area | What I've explored |
-|:--|:--|
-| **Database Internals** | Storage engines, B+ trees, buffer pools, WAL, ARIES recovery, query planning |
-| **Distributed Systems** | Consensus (Raft), replication, idempotency, outbox pattern, failure handling |
-| **Reliability Engineering** | Retries with backoff and jitter, circuit breakers, dead-letter queues, rate limiting |
-| **Backend & APIs** | FastAPI, SQLAlchemy, Celery, multi-tenant design, auth and security |
-| **Full-Stack** | Angular (signals, standalone components), React, accessible UI design |
 
 ---
 
