@@ -26,9 +26,7 @@ I'm part of the **Software Application & Development Apprenticeship** at **Googl
 Outside work I build systems from first principles to understand how they really work: a relational **database engine** in pure Python, a fault-tolerant **workforce integration platform**, and a **Raft-based distributed key-value store**.
 
 
-<table>
-<tr>
-<td width="58%" valign="middle">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"/>
 
 ```python
 def praneeth():
@@ -48,16 +46,11 @@ def praneeth():
     }
 ```
 
-</td>
-<td width="42%" align="center" valign="middle">
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -90,7 +83,7 @@ def praneeth():
 
 ## Experience
 
-<table>
+<table width="100%">
 <tr>
 <td width="90" align="center"><img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" width="56"/></td>
 <td>
@@ -211,7 +204,7 @@ A linearizable key-value store replicated with the **Raft consensus algorithm**,
 
 ## Education
 
-<table>
+<table width="100%">
 <tr>
 <td width="90" align="center"><img src="assets/gitam.png" width="60"/></td>
 <td>
@@ -248,7 +241,7 @@ A linearizable key-value store replicated with the **Raft consensus algorithm**,
 
 ## Honors & Awards
 
-<table>
+<table width="100%">
 <tr>
 <td width="90" align="center"><h2><b>1st</b></h2></td>
 <td>
