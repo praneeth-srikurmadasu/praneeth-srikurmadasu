@@ -21,7 +21,7 @@
 
 ## About Me
 
-I'm part of the **Software Application & Development Apprenticeship** at **Google** (since March 2025). I enjoy the hard parts of backend engineering: storage engines, transactions, retries, idempotency and the edge cases that show up when real systems fail.
+I'm part of the **Software Application & Development Apprenticeship** at **Google** (since March 2026). I enjoy the hard parts of backend engineering: storage engines, transactions, retries, idempotency and the edge cases that show up when real systems fail.
 
 Outside work I build systems from first principles to understand how they really work: a relational **database engine** in pure Python, a fault-tolerant **workforce integration platform**, and a **Raft-based distributed key-value store**.
 
@@ -33,7 +33,7 @@ def praneeth():
     return {
         "role":      "Software Application & Development "
                      "Apprenticeship @ Google",
-        "since":     "March 2025",
+        "since":     "March 2026",
         "languages": ["Python", "Java", "C++",
                       "JavaScript", "TypeScript", "SQL"],
         "backend":   ["FastAPI", "Node.js", "Express",
@@ -127,6 +127,24 @@ def praneeth():
 
 </td>
 </tr>
+<tr>
+<td width="90" align="center"><img src="https://www.google.com/s2/favicons?domain=wipro.com&sz=128" width="56"/></td>
+<td>
+
+### Wipro
+**Software Development Intern** &nbsp;|&nbsp; June 2024 – July 2024
+
+- Built an **AI-powered incident-reporting chatbot** on ServiceNow, reducing average issue resolution time by **30%**
+- Applied NLP techniques to improve intent classification accuracy by **~40%**
+
+<p>
+<img src="https://img.shields.io/badge/ServiceNow-62D84E?style=flat-square&logo=servicenow&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-555555?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI_Chatbot-555555?style=flat-square"/>
+</p>
+
+</td>
+</tr>
 </table>
 
 ---
@@ -211,7 +229,7 @@ A linearizable key-value store replicated with the **Raft consensus algorithm**,
 
 ### GITAM Deemed University
 **Bachelor of Technology (B.Tech), Computer Science** &nbsp;|&nbsp; Nov 2021 – Jul 2025
-<br/><sub>CGPA: 7.82 / 10</sub>
+<br/><sub>CGPA: 7.81 / 10</sub>
 
 </td>
 </tr>
