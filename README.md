@@ -110,7 +110,7 @@ def praneeth():
 <td>
 
 ### Smartly Built
-**Backend Developer** &nbsp;|&nbsp; September 2025 – January 2026 &nbsp;|&nbsp; Remote
+**Backend Developer Intern** &nbsp;|&nbsp; September 2025 – January 2026 &nbsp;|&nbsp; Remote
 
 - Built and maintained backend services and REST APIs with **Node.js** and **Express.js**
 - Designed data models and queries across **MongoDB** and **MySQL**
